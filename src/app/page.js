@@ -473,7 +473,7 @@ I hope I can create something interesting and helpful for other people.`
           <span className="text-xs text-gray-500">Completed 2024</span>
           <a
             href="#"
-            className="text-blue-500 hover:text-blue-700 text-sm font-medium"
+            className="font-medium text-black hover:text-gray-700 text-2xl"
           >
             View Certificate
           </a>
