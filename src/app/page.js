@@ -381,6 +381,7 @@ I hope I can create something interesting and helpful for other people.`
             <p className="mt-4 text-gray-600 max-w-2xl mx-auto">
               I've worked on a variety of projects, from simple websites to complex
               web applications. Here are a few of my favorites that showcase my skills and creativity.
+              (Note: Some projects are still in development and will be updated soon.)
             </p>
           </div>
 
