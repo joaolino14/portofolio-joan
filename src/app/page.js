@@ -79,7 +79,7 @@ const certificates = [
 
 const stats = [
   { number: "4", label: "Projects Completed" },
-  { number: "1", label: "Years Experience" },
+  { number: "1", label: "Years Learning" },
   { number: "5+", label: "Technologies" },
   { number: "70%", label: "Learning Progrest" },
 ];
