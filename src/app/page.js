@@ -274,8 +274,15 @@ I hope I can create something interesting and helpful for other people.`
           <div className="space-y-6">
             <div className="flex flex-col md:flex-row md:items-center justify-between p-6 bg-white rounded-xl shadow-sm border border-gray-100">
               <div className="flex items-center gap-4 mb-4 md:mb-0">
-                <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-500 rounded-full flex items-center justify-center text-white font-bold">
-                  SK
+                <div>
+              
+                 <Image 
+                  src={"/images/school.png"}
+                  alt="SMK"
+                  width={40}
+                  height={40}
+                  className="object-cover rounded-full"
+                  />
                 </div>
                 <div>
                   <h3 className="font-bold text-lg">SMK Ketintang</h3>
@@ -299,8 +306,15 @@ I hope I can create something interesting and helpful for other people.`
 
             <div className="flex flex-col md:flex-row md:items-center justify-between p-6 bg-white rounded-xl shadow-sm border border-gray-100">
               <div className="flex items-center gap-4 mb-4 md:mb-0">
-                <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-blue-500 rounded-full flex items-center justify-center text-white font-bold">
-                  CP
+                <div>
+              
+               <Image 
+                  src={"/images/politan.jpg"}
+                  alt="SMK"
+                  width={40}
+                  height={40}
+                  className="object-cover rounded-full"
+                  />
                 </div>
                 <div>
                   <h3 className="font-bold text-lg">Code Politan</h3>
